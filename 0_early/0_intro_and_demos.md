@@ -1,3 +1,5 @@
+// Mix of samples from reference docs and "In the Beginning" (Switch Angel - https://www.youtube.com/watch?v=YFQm8Hk73ug)
+
 // _$: s("[bd <hh oh>]*2").bank("tr909").dec(.4)
 // cpm(60)
 // note("a2 c3 d3 c3")
